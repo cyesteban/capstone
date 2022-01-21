@@ -1,2 +1,2 @@
-# capstone
-## Editing capstone
+# Data Science and Machine Learning Capstone Project
+
